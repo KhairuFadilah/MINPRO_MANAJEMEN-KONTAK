@@ -1,5 +1,9 @@
 # DOKUMENTASI PROGRAM MINI PROJECT PBO
 
+Alur Penggunaan Program:
+1. Kontak.java berfungsi untuk mendeklarasikan class Kontak, attributes, constructor, dan getter dan setter
+2. kontakManajer.java dan Minpro_kontakTelepon.java berfungsi untuk mengatur logika dan menjalankan program CRUD pada kontak telepon
+
 ![image](https://github.com/user-attachments/assets/0a57a413-1006-41ba-8478-53dfdcf2e25b)
 
 ![image](https://github.com/user-attachments/assets/e54c10f5-6518-4fc3-9c74-93fcddd25c67)
