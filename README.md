@@ -1,4 +1,4 @@
-# MINI PROJECT PEMROGRAMAN BERORIENTASI OBJEK
+# DOKUMENTASI PROGRAM MINI PROJECT PBO
 
 ![image](https://github.com/user-attachments/assets/0a57a413-1006-41ba-8478-53dfdcf2e25b)
 
